@@ -1,2 +1,2 @@
 # PyStairs
-Python project repository
+Python projects repository
